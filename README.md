@@ -1,3 +1,5 @@
+![logo](PigsThatGoBoomInTheNight/pack.png)
+
 # PigsThatGoBoomInTheNight
 
 A data pack for Minecraft 1.19.X (but will probably work with 1.13+) that allows you to "feed" TNT to pigs (by dropping TNT items onto them) to make them explosive!
