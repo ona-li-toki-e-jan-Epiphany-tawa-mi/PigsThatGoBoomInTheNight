@@ -29,7 +29,6 @@ After that, remove the datapack from your world's datapacks folder before reload
 ## Links
 
 [Planet Minecraft Page](https://www.planetminecraft.com/data-pack/pigsthatgoboominthenight "PigsThatGoBoomInTheNight on Planet Minecraft")
-[CurseForge Page](https://www.curseforge.com/minecraft/texture-packs/pigsthatgoboominthenight "PigsThatGoBoomInTheNight on CurseForge")
 
 ## Screenshots
 
