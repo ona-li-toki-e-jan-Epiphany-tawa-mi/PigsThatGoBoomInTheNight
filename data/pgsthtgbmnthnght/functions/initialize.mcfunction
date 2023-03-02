@@ -12,5 +12,7 @@ scoreboard players set item_count pgsthtgbmnthnght 0
 
 
 
-say PigsThatGoBoomInTheNight has been successfully installed!
-say To uninstall, run "/function pgsthtgbmnthnght:uninstall"
+tellraw @a {"text":"===================================================","color":"gold"}
+tellraw @a {"text":"Successfully installed PigsThatGoBoomInTheNight!","color":"gold"}
+tellraw @a [{"text":"To uninstall, run '","color":"gold"},{"text":"/function pgsthtgbmnthnght:uninstall","color":"white","bold":true,"clickEvent":{"action":"run_command","value":"/function pgsthtgbmnthnght:uninstall"},"hoverEvent":{"action":"show_text","value":{"text":"Click to run command","italic":true}}},{"text":"' and remove it from the world's datapack directory"}]
+tellraw @a {"text":"===================================================","color":"gold"}

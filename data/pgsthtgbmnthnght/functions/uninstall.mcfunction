@@ -6,4 +6,6 @@ scoreboard players reset found_pig pgsthtgbmnthnght
 scoreboard players reset item_count pgsthtgbmnthnght
 scoreboard objectives remove pgsthtgbmnthnght
 
-say "Successfully uninstalled PigsThatGoBoom!"
+tellraw @a {"text":"===================================================","color":"gold"}
+tellraw @a {"text":"Successfully uninstalled PigsThatGoBoomInTheNight!","color":"gold"}
+tellraw @a {"text":"===================================================","color":"gold"}
