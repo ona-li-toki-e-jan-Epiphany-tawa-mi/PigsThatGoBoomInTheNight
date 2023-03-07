@@ -1,14 +1,14 @@
 ##
 # Runs the installation process. 
-# Do not call directly, but through pgsthtgbmnthnght:try_install, as it only runs when not already installed.
+# Do not call directly, but through pgsthtgbmnthnght:try_install, as it only runs when not already installed (unless you
+#   want to reset the variables.)
 #
 
 # Flags that installation has occured.
 scoreboard players set installed pgsthtgbmnthnght 1
 
-# Pre-initializing scoreboard variables just to keep track of which ones are being used.
-scoreboard players set found_pig pgsthtgbmnthnght 0
-scoreboard players set item_count pgsthtgbmnthnght 0
+# Whether pigs are the only entities that can be set to be explosive.
+scoreboard players set pigs_only pgsthtgbmnthnght 1
 
 
 

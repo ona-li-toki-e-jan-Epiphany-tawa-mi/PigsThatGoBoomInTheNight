@@ -1,9 +1,9 @@
 ##
 # Uninstalls PigsThatGoBoomInTheNight.
+#
 
 scoreboard players reset installed pgsthtgbmnthnght
-scoreboard players reset found_pig pgsthtgbmnthnght
-scoreboard players reset item_count pgsthtgbmnthnght
+scoreboard players reset pigs_only pgsthtgbmnthnght
 scoreboard objectives remove pgsthtgbmnthnght
 
 tellraw @a {"text":"===================================================","color":"gold"}
