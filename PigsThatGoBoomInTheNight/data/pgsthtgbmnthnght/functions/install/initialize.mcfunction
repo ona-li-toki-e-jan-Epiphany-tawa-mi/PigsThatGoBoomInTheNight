@@ -4,6 +4,11 @@
 #   want to reset the variables.)
 #
 
+# Create scoreboard in case of force-install and scoreboard does not exist for some reason.
+scoreboard objectives add pgsthtgbmnthnght dummy
+
+
+
 # Flags that installation has occured.
 scoreboard players set installed pgsthtgbmnthnght 1
 
