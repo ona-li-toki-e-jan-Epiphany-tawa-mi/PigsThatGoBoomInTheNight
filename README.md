@@ -46,3 +46,7 @@ After that, remove the datapack from your world's datapacks folder before reload
 ![screenshot](screenshots/lovi_aptechku.png)
 ![screenshot](screenshots/lit_fuse.png)
 ![screenshot](screenshots/explosion.png)
+
+# Changelog
+
+- Any entity (with a couple exceptions) can be made explosive after running "/function pgsthtgbmnthnght:toggle_pigs_only".
