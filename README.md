@@ -49,4 +49,4 @@ After that, remove the datapack from your world's datapacks folder before reload
 
 # Changelog
 
-- Any entity (with a couple exceptions) can be made explosive after running "/function pgsthtgbmnthnght:toggle_pigs_only".
+- Optimizations.

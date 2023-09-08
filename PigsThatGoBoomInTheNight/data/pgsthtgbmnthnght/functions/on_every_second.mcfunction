@@ -21,8 +21,11 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS #
 # IN THE SOFTWARE.                                                             #
 ################################################################################
-# Called once every tick.
+# Called once every second.
 #
 
-execute as @e[tag=pgsthtgbmnthnght_explosive] at @s run function pgsthtgbmnthnght:explosive_entity/on_tick
+execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:tnt"}}] at @s run function pgsthtgbmnthnght:tnt_item_entity/on_every_second
 
+
+
+schedule function pgsthtgbmnthnght:on_every_second 1s

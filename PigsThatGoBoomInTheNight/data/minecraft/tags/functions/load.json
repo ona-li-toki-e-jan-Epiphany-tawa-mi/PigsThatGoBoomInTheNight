@@ -2,5 +2,6 @@
     "replace": false,
     "values": [
         "pgsthtgbmnthnght:install/try_install"
+		"pgsthtgbmnthnght:on_every_second"
     ]
 }
