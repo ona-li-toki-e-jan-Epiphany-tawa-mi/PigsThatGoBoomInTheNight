@@ -38,8 +38,6 @@ After that, remove the datapack from your world's datapacks folder before reload
 
 ## Links
 
-[Planet Minecraft Page](https://www.planetminecraft.com/data-pack/pigsthatgoboominthenight "PigsThatGoBoomInTheNight on Planet Minecraft")
-
 ["Demonstration" Video](https://www.youtube.com/watch?v=PG9h9F2UDsc "PigsThatGoBoomInTheNight 'demonstration' video on YouTube")
 
 ## Screenshots
