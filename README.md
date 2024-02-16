@@ -38,7 +38,7 @@ After that, remove the datapack from your world's datapacks folder before reload
 
 ## Links
 
-["Demonstration" Video](https://www.youtube.com/watch?v=PG9h9F2UDsc "PigsThatGoBoomInTheNight 'demonstration' video on YouTube")
+["Demonstration" Video](https://odysee.com/@ona-li-toki-e-jan-Epiphany-tawa-mi:9/Making-pigs-go-kabooey:8?r=HYroMZaqrVN4gL5oSJ35gcTgt3K56r39 "PigsThatGoBoomInTheNight 'demonstration' video on Odysee")
 
 ## Screenshots
 
